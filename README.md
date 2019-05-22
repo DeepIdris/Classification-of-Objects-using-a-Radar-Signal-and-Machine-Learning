@@ -7,3 +7,6 @@ that is, two labels/outputs and multiclass classification, that is, more than tw
 performance in each case will be used to predict on the unlabeled data.
 
 Data was provided by Harris-Birtill, D. (PhD), which is part of a University internal project. 
+
+# Licence
+University of St. Andrews
