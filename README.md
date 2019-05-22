@@ -6,4 +6,4 @@ labeled data to generalize on new data, in this case, the unlabeled data. The da
 that is, two labels/outputs and multiclass classification, that is, more than two labels/outputs. The models with the best 
 performance in each case will be used to predict on the unlabeled data.
 
-Data was provided by Harris-Birtill, D., which is part of a University internal project. 
+Data was provided by Harris-Birtill, D. (PhD), which is part of a University internal project. 
